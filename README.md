@@ -1,6 +1,4 @@
-Here's a draft README for your "hotel-booking-tz" repository:
 
----
 
 # Hotel Booking Platform
 
@@ -88,6 +86,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-If you'd like me to flesh out any specific sections or add more details, let me know!
